@@ -1,33 +1,41 @@
-# Histórico de Atualizações: Idear Digital (Nov/Dez 2025)
+# 🧠 Base de Conhecimento Mestre: Idear Digital (Elite 2025)
 
-Compilamos as principais melhorias implementadas na nossa plataforma nos últimos dois meses para garantir que você tenha acesso ao que há de mais moderno em automação e marketing digital.
-
----
-
-## 📅 Dezembro 2025
-
-### 🚀 Pagamentos e Checkout
-*   **Integração OAuth PayPal:** Conexão simplificada e segura com o PayPal sem necessidade de chaves de API. Suporte imediato ao **Venmo** e preparação para Apple/Google Pay.
-*   **SDK de Pagamentos Atualizado:** Fluxos de checkout mais rápidos e suaves para aumentar suas taxas de conversão.
-
-### 📱 WhatsApp e Comunicação
-*   **Retenção de Mídia Estendida:** Fotos, vídeos e documentos no WhatsApp agora são armazenados por **1 ano** no CRM, eliminando o problema de arquivos expirados.
-*   **Adicionar aos Documentos:** Salve anexos do WhatsApp diretamente na pasta de documentos do contato com um clique.
-*   **WhatsApp Back (Chamada Perdida):** Resposta automática via WhatsApp para chamadas não atendidas, transformando leads perdidos em conversas ativas.
+Este documento é o índice central da inteligência da agência, consolidando todos os módulos estruturados para o Superagente.
 
 ---
 
-## 📅 Novembro 2025
+## 📂 Estrutura de Módulos (GitHub)
 
-### 🤖 Inteligência Artificial e Automação
-*   **Conversation AI Public API:** Acesso programático aos agentes de IA, permitindo integrações personalizadas e controle total sobre as gerações de conversas.
-*   **Workflow AI Builder:** Criação de automações complexas usando linguagem natural. Basta descrever o fluxo e a IA monta a estrutura para você.
-*   **Custom Code AI:** Assistente de IA para ajudar na escrita de scripts personalizados dentro dos workflows, facilitando integrações avançadas.
-
-### 📊 Gestão e CRM
-*   **SaaS Configurator Public APIs:** Novas formas de automatizar a gestão de subcontas e planos SaaS diretamente via API.
-*   **Melhorias em Documentos e Contratos:** APIs públicas para gerenciar modelos, enviar contratos e listar documentos de forma automatizada.
-*   **Recurring Tasks:** Implementação de tarefas recorrentes no CRM para garantir que processos periódicos nunca sejam esquecidos pela sua equipe.
+| Módulo | Descrição | Arquivo no GitHub |
+| :--- | :--- | :--- |
+| **Workflows & MCP** | Lógica de automação, gatilhos e controle via IA. | `KB_WORKFLOWS_MCP.md` |
+| **Custom Objects** | Estruturação de dados complexos e nichos. | `KB_CUSTOM_OBJECTS.md` |
+| **Sites & Memberships** | Conversão, Onboarding e entrega de cursos. | `KB_SITES_MEMBERSHIPS.md` |
+| **SaaS & Whitelabel** | Escala, faturamento recorrente e branding. | `KB_SAAS_WHITELABEL.md` |
 
 ---
-*Continuamos evoluindo para que sua operação digital seja imparável!*
+
+## 🚀 Resumo de Ativos Críticos (Jan/2025)
+
+### 1. Automação e IA
+*   **GHL MCP Server:** O agente opera o CRM diretamente.
+*   **Advanced Workflow Builder:** Fluxos visuais complexos (estilo n8n).
+*   **Conversation AI API:** Controle total do bot via n8n.
+
+### 2. Dados e CRM
+*   **Custom Objects (10/loc):** Tabelas para Imóveis, Veículos, Projetos, etc.
+*   **Batch Update API:** Atualização massiva de dados entre subcontas.
+*   **Retroactive Dates:** Relatórios 100% precisos.
+
+### 3. Faturamento e Escala
+*   **SaaS Configurator:** Venda de software com lucro recorrente.
+*   **Phone/Email Rebilling:** Lucro passivo sobre o consumo do cliente.
+*   **Asaas Integration:** Recebimento em D+2 via n8n.
+
+### 4. Experiência do Cliente
+*   **Client Portal:** Área logada profissional para o cliente.
+*   **Branded Mobile App:** Sua agência no bolso do cliente.
+*   **WhatsApp Back:** Recuperação automática de chamadas perdidas.
+
+---
+**Status:** Atualizado em 02/01/2026. Pronto para orquestração no n8n.
