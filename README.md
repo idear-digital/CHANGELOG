@@ -1,41 +1,38 @@
-# 🧠 Base de Conhecimento Mestre: Idear Digital (Elite 2025)
+# 🚀 Base de Conhecimento Definitiva: Idear Digital (Alta Performance 2025)
 
-Este documento é o índice central da inteligência da agência, consolidando todos os módulos estruturados para o Superagente.
+Este documento é o ápice da inteligência estratégica da agência, detalhando o ciclo completo de vida do cliente com precisão cirúrgica.
 
 ---
 
-## 📂 Estrutura de Módulos (GitHub)
+## 🔄 Ciclo de Vendas de Alta Performance
 
-| Módulo | Descrição | Arquivo no GitHub |
+| Etapa | Descrição Estratégica | Ativo de Inteligência |
 | :--- | :--- | :--- |
-| **Workflows & MCP** | Lógica de automação, gatilhos e controle via IA. | `KB_WORKFLOWS_MCP.md` |
-| **Custom Objects** | Estruturação de dados complexos e nichos. | `KB_CUSTOM_OBJECTS.md` |
-| **Sites & Memberships** | Conversão, Onboarding e entrega de cursos. | `KB_SITES_MEMBERSHIPS.md` |
-| **SaaS & Whitelabel** | Escala, faturamento recorrente e branding. | `KB_SAAS_WHITELABEL.md` |
+| **1. Prospecção** | Identificação de falhas técnicas e TechnoStack Analysis. | `KB_PROSPECCAO.md` |
+| **2. Captura** | Leads qualificados via SEO Heatmaps e Auditorias. | `KB_PROSPECCAO.md` |
+| **3. Reunião** | Agendamento com pré-qualificação e Agentes de Voz. | `KB_FECHAMENTO.md` |
+| **4. Fechamento** | Propostas dinâmicas e Contratos com E-Sign. | `KB_FECHAMENTO.md` |
+| **5. Pagamento** | Checkout de uma etapa e Recorrência Automática. | `KB_PAGAMENTOS.md` |
+| **6. Onboarding** | Sincronização com ClickUp e Notion via n8n. | `KB_PAGAMENTOS.md` |
 
 ---
 
-## 🚀 Resumo de Ativos Críticos (Jan/2025)
+## 🛠️ Módulos de Especialização Técnica
 
-### 1. Automação e IA
-*   **GHL MCP Server:** O agente opera o CRM diretamente.
-*   **Advanced Workflow Builder:** Fluxos visuais complexos (estilo n8n).
-*   **Conversation AI API:** Controle total do bot via n8n.
+### 🧬 Módulo: Prospecção & TechnoStack
+*   **Análise de Pixel:** Identificação de falhas no Facebook/Google Ads.
+*   **SEO Heatmaps:** Prova visual de falta de presença local.
+*   **Marketing Audit:** Relatórios com notas (A-F) para gerar urgência.
 
-### 2. Dados e CRM
-*   **Custom Objects (10/loc):** Tabelas para Imóveis, Veículos, Projetos, etc.
-*   **Batch Update API:** Atualização massiva de dados entre subcontas.
-*   **Retroactive Dates:** Relatórios 100% precisos.
+### ✍️ Módulo: Documentos & Assinatura
+*   **Dynamic Proposals:** Orçamentos que notificam ao serem abertos.
+*   **E-Sign Nativo:** Assinatura digital sem custos extras de terceiros.
+*   **Smart Variables:** Personalização total de contratos via CRM.
 
-### 3. Faturamento e Escala
-*   **SaaS Configurator:** Venda de software com lucro recorrente.
-*   **Phone/Email Rebilling:** Lucro passivo sobre o consumo do cliente.
-*   **Asaas Integration:** Recebimento em D+2 via n8n.
-
-### 4. Experiência do Cliente
-*   **Client Portal:** Área logada profissional para o cliente.
-*   **Branded Mobile App:** Sua agência no bolso do cliente.
-*   **WhatsApp Back:** Recuperação automática de chamadas perdidas.
+### 💸 Módulo: Finanças & Gestão
+*   **One-Step Checkout:** Máxima conversão no pagamento.
+*   **Dunning Management:** Recuperação automática de faturas falhas.
+*   **Project Sync:** Criação automática de projetos no ClickUp/Notion.
 
 ---
-**Status:** Atualizado em 02/01/2026. Pronto para orquestração no n8n.
+**Versão:** 1.0 (Jan/2026) - **Status:** Pronta para Orquestração no n8n.
